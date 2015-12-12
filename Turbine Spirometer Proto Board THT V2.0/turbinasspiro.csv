@@ -1,0 +1,23 @@
+Description;Footprint;Quantity;Value;Supplier;Order Code;
+;;;;;;
+Capacitor;C1206;50;100n;Lomex; 82-09-03;ok
+;;10;22p;Lomex; 82-09-72;ok
+;;10;1uF;Lomex; 82-08-43;ok
+;;10;4.7uF;Lomex; 82-06-22;ok
+Resistor;R1206;40;1k;Lomex; 80-10-26;ok
+;;15;10k;Lomex; 80-10-38;ok
+;;20;0R;Lomex; 81-10-03;ok
+;;10;4k7;Lomex; 80-10-34;ok
+Inductor;L1210;5;4.7uH;Lomex; 93-00-05;ok
+TACT 6x 6;;4;;Lomex; 45-05-43;ok
+MCP6567-E/SN;SOIC8;5;;farnell;1715879;ok
+M95160;SOIC8;4;;Lomex; 89-13-10;ok
+MCP1603T-330I/OS;SOT23-5;5;;farnell;1439373;ok
+XTAL;HC49;4;8MHz;Lomex; 40-01-16;ok
+RED/GRE BICOL;;4;;Lomex; 34-00-73;ok
+9Pin D-SUB connector;;3;;Lomex; 43-00-45;ok
+L-53F3C;;6;;farnell;2290441;ok
+L-934F3C;;6;;farnell;2290438;ok
+L-53P3C;;6;;farnell;2290444;ok
+L-93DP3C;;6;;farnell;2290440;ok
+TšSKESOR 5x2 P SPHDS127;;3;;Lomex; 43-15-33;ok

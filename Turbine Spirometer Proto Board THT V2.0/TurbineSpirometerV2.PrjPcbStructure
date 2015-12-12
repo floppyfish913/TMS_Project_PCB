@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Turbine_SM.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Turbine_SM.SchDoc|Designator=IO|SchDesignator=IO|FileName=Power & Connections.SchDoc|SymbolType=Normal|RawFileName=Power & Connections.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Turbine_SM.SchDoc|Designator=MCU board|SchDesignator=MCU board|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Turbine_SM.SchDoc|Designator=Sensor|SchDesignator=Sensor|FileName=TURBINE.SchDoc|SymbolType=Normal|RawFileName=TURBINE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
